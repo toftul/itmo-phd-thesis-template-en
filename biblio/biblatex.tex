@@ -1,0 +1,42 @@
+%%% Реализация библиографии пакетами biblatex и biblatex-gost с использованием движка biber %%%
+
+\usepackage{csquotes} % biblatex рекомендует его подключать
+
+\usepackage[%
+    backend=biber,
+    bibencoding=utf8,
+    sorting=none,
+    style=gost-numeric,
+    language=autobib,
+    autolang=other,
+    clearlang=true,
+    defernumbers=true,
+    sortcites=true,
+    doi=false,
+    isbn=false,
+]{biblatex}
+
+\addbibresource{biblio/references.bib}
+
+% https://tex.stackexchange.com/a/202797
+\newtotcounter{citenum}
+\AtEveryBibitem{\stepcounter{citenum}}
+
+
+
+% https://tex.stackexchange.com/a/373241
+% \defbibenvironment{bibliography}
+%   {\list
+%      {\printtext[labelnumberwidth]{%
+%       \printfield{labelprefix}%
+%       \printfield{labelnumber}}}
+%      {\setlength{\labelwidth}{\labelnumberwidth}%
+%       \setlength{\leftmargin}{\labelwidth}%
+%       \setlength{\labelsep}{\biblabelsep}%
+%       \addtolength{\leftmargin}{\labelsep}%
+%       \addtolength{\leftmargin}{35pt}%<----- here
+%       \setlength{\itemsep}{\bibitemsep}%
+%       \setlength{\parsep}{\bibparsep}}%
+%       \renewcommand*{\makelabel}[1]{\hss##1}}
+%   {\endlist}
+%   {\item}
