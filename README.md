@@ -2,7 +2,7 @@
 
 This is not an official template. It works fine with [Overleaf](https://www.overleaf.com/). 
 
-If you are writing your dissertation in Russian, there is [toftul/itmo-phd-thesis-template-ru](https://github.com/toftul/itmo-phd-thesis-template-ru).
+If you are writing your dissertation in Russian, there is another repository [toftul/itmo-phd-thesis-template-ru](https://github.com/toftul/itmo-phd-thesis-template-ru).
 
 ## Why does this exist
 
