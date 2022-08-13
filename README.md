@@ -1,4 +1,4 @@
-# PhD Thesis template for ITMO University
+# PhD Thesis template for ITMO University in LaTeX
 
 This is not an official template. It works fine with [Overleaf](https://www.overleaf.com/). 
 
