@@ -24,7 +24,7 @@ However both these templates are extremely overloaded and it's hard to use them 
 * Upload it to [Overleaf](https://www.overleaf.com/).
 
 ### Literature
-There are two files with literature (**I highly suggest doing bib entries via [BibItNow!](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg?hl=en-US)**):
+There are two files with literature (**I highly suggest doing bib-entries via [BibItNow!](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg?hl=en-US)**):
 1. `biblio/references.bib' is the standard bib file, where all the sources you are going to cite go, including your own work;
 2. `biblio/own.bib` is the list of your articles and conferences. This file is used for the automatic output in the general thesis summary part. However, you will need to manually add the necessary `keywords` to make it work.
 
@@ -37,7 +37,7 @@ Example `keywords` are:
 * `conf` - conference.
 
 Example of the bib-entry:
-``bib
+```bib
 @article{Toftul2019Oct,
         keywords = {own, scopus, wos}, % <--- here!
         Author = {Toftul, I. D. and Bliokh, K. Y. and Petrov, M. I. and Nori, F.},
