@@ -16,6 +16,7 @@ However both these templates are extremely overloaded and it's hard to use them 
 2. Removed the choice between `bibtex` and `biblatex` in favor of the latter one, because it is the most modern version of the bibliography engine;
 3. Abstract and Synopsys inserted into the main document, as required by the template ITMO;
 4. Counters and output of own paper (how many in total, how many in Scopus, etc.) are done from sratch.
+5. Now in `Dissertation` folder there are only files of the dissertation, all the settings are moved to `common`.
 
 ## How to use
 
