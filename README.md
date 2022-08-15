@@ -20,9 +20,12 @@ However both these templates are extremely overloaded and it's hard to use them 
 
 ## How to use
 
-### Start
+### the beginning
 * Download the `zip` of this repository;
 * Upload it to [Overleaf](https://www.overleaf.com/).
+
+### Additional settings and packages
+All your extra packages and custom functions should be placed in the file `Dissertation/custom.tex` in order not to touch other files, which are responsible for the stylistics of the template.
 
 ### Literature
 There are two files with literature (**I highly suggest doing bib-entries via [BibItNow!](https://chrome.google.com/webstore/detail/bibitnow/bmnfikjlonhkoojjfddnlbinkkapmldg?hl=en-US)**):
