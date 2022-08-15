@@ -68,3 +68,9 @@ Example of the bib-entry:
 ### The rest
 
 Everything else should be intuitive.
+
+## Possible errors and solutions
+
+### Error U+0301
+
+The simplest one: delete all `\'` in `biblio/references.bib`.
