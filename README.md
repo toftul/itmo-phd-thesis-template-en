@@ -4,6 +4,9 @@ This is not an official template. See an example of how it looks in [Overleaf](h
 
 If you are writing your dissertation in Russian, there is another repository [toftul/itmo-phd-thesis-template-ru](https://github.com/toftul/itmo-phd-thesis-template-ru).
 
+Video instruction on YouTube (in Russian):
+[<img src="https://wiki.physics.itmo.ru/images/3/31/%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80_%D0%B2_%D1%82%D0%B5%D1%85%D0%B5.png" width="50%">](https://youtu.be/ghJgTtJuJPE "Кандидатская диссертация в LaTeX. Шаблон и инструкция")
+
 ## Why does this exist
 
 There is an official template on the [ITMO Dissertation Council](https://dissovet.itmo.ru/index.php?main=110) website, which is a fork of the well-known template [AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template). 
