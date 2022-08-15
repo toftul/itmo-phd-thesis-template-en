@@ -1,6 +1,6 @@
 # PhD Thesis template for ITMO University in LaTeX
 
-This is not an official template. See an example of how it looks in [Overleaf](https://www.overleaf.com/read/qhccxjbpzwcd). 
+This is not an official template. 
 
 If you are writing your dissertation in Russian, there is another repository [toftul/itmo-phd-thesis-template-ru](https://github.com/toftul/itmo-phd-thesis-template-ru).
 
