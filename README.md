@@ -65,6 +65,12 @@ Example of the bib-entry:
 }
 ```
 
+### Offline compilation
+
+- Use [texstudio](https://www.texstudio.org/)
+- Make sure you have `biber` installed
+- Change the bibliography engine from `bibtex` to `biber`
+
 ### The rest
 
 Everything else should be intuitive.
