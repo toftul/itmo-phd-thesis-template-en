@@ -87,3 +87,8 @@ Everything else should be intuitive.
 ### Error U+0301
 
 The simplest one: delete all `\'` in `biblio/references.bib`.
+
+### Does not compile references
+
+* Make sure the bibliography engine is set to `biber` in your editor settings.
+* Make sure the fresh distribution of LaTeX is installed.
